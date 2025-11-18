@@ -41,8 +41,8 @@
 
 ## Screenshots and Video
 
-DEMO: [YouTube Link](https://youtu.be/dASpQNrQ19g?feature=shared)
-IMAGES: _To Be Included_
+- DEMO: [YouTube Link](https://youtu.be/dASpQNrQ19g?feature=shared)
+- IMAGES: _To Be Included_
 
 ## Contributors
 - **Siew Jun Zhen** – [GitHub](https://github.com/DarrenSJZ)
