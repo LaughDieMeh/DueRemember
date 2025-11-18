@@ -39,8 +39,10 @@
 - **Dependency Injection**: Manual DI
 - **Architecture**: MVVM (Model-View-ViewModel)
 
-## Screenshots
-_To Be Included_
+## Screenshots and Video
+
+DEMO: [YouTube Link](https://youtu.be/dASpQNrQ19g?feature=shared)
+IMAGES: _To Be Included_
 
 ## Contributors
 - **Siew Jun Zhen** – [GitHub](https://github.com/DarrenSJZ)
